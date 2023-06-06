@@ -10,7 +10,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 import Modelos.Bloque;
-import Modelos.Columna;
 import Modelos.Nave;
 import javax.swing.JLabel;
 

@@ -42,7 +42,7 @@ public class Nave {
 		vidas--;
 	}
 	public void restart() {
-		x=100;
+		x=x+ancho;
 		y=350;
 	}
 	public boolean colision() {
